@@ -1,0 +1,11 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Bhaskar Divya",
+  "email": "koldbyte@at@gmail.com",
+  "friendly_name": "Zombieland",
+  "github_user": "koldbyte",
+  "license": "MIT",
+  "package_name": "zombieland",
+  "project_name": "zombieland",
+  "version": "0.0.0"
+}
